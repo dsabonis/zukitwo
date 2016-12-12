@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Zukitwo
+Name=Zukitwo-ds
 Comment=A simple grey theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Zukitwo
+GtkTheme=Zukitwo-ds
 MetacityTheme=Zukitwo
 ButtonLayout=:minimize,maximize,close
