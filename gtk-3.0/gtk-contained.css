@@ -1083,7 +1083,7 @@ GtkComboBox {
   -GtkWidget-window-dragging: true;
   padding: 4px;
   background-color: linear-gradient(to bottom, @wm_bg_a, @wm_bg_a);
-  box-shadow: inset 0 1px rgba(176, 176, 176, 0.35); }
+}
   .osd .toolbar, .osd .inline-toolbar, .osd .search-bar, .osd .location-bar, .toolbar.osd, .osd.inline-toolbar, .osd.search-bar, .osd.location-bar {
     padding: 13px;
     border: none;
@@ -3398,7 +3398,7 @@ UnityDecoration.top {
   padding: 1px 8px 0 8px; /* This padding will be applied to the content of the top layout */
   background-color: @theme_bg_color; /* Decoration background */
   background-image: linear-gradient(to bottom,
-  @wm_bg_a,
+  #E8E8E8,
   @wm_bg_b);
   color: @theme_fg_color; /* The foreground color will be used to paint the text */
   box-shadow: inset 0 1px alpha(@theme_base_color, 0.6);
