@@ -1082,7 +1082,7 @@ GtkComboBox {
 .toolbar, .inline-toolbar, .search-bar, .location-bar {
   -GtkWidget-window-dragging: true;
   padding: 4px;
-  background-color: linear-gradient(to bottom, @wm_bg_a, @wm_bg_a);
+/*  background-image: linear-gradient(to bottom, @wm_bg_a, @wm_bg_a); */
 }
   .osd .toolbar, .osd .inline-toolbar, .osd .search-bar, .osd .location-bar, .toolbar.osd, .osd.inline-toolbar, .osd.search-bar, .osd.location-bar {
     padding: 13px;
