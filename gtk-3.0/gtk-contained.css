@@ -3430,9 +3430,9 @@ UnityDecoration.bottom:backdrop {
 
 UnityPanelWidget,
 .unity-panel {
-	background-image: linear-gradient(to bottom,
-		@wm_bg_a,
-		@wm_bg_a);
+    background-image: linear-gradient(to bottom,
+    @wm_bg_b,
+    @wm_bg_b);
 	border-width: 0;
 	color: @theme_fg_color;
 }
